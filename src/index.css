@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Manrope', 'Noto Sans Khmer', ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand-50: #effcf9;
+  --color-brand-100: #cdf5ee;
+  --color-brand-200: #9be9de;
+  --color-brand-500: #12a594;
+  --color-brand-600: #0d8577;
+  --color-brand-700: #0b6a60;
+  --color-brand-800: #0a554e;
+  --color-brand-900: #0d2f2c;
+
+  --color-ink: #10221f;
+  --color-desk: #dfe6e3;
+  --color-signal: #e8a33d;
+}
+
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  background: #f3f6f5;
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brand-600);
+  outline-offset: 2px;
+}
+
+input[type="range"] { accent-color: var(--color-brand-600); }
+
+.rich-editor:empty::before { content: attr(data-placeholder); color: #94a3b8; pointer-events: none; }
+.rich-editor ul, .resume-rich-text ul { list-style: disc; padding-left: 1.25em; margin: 0.35em 0 0; }
+.rich-editor ol, .resume-rich-text ol { list-style: decimal; padding-left: 1.25em; margin: 0.35em 0 0; }
+.rich-editor li, .resume-rich-text li { margin-bottom: 0.15em; }
+.resume-rich-text p { margin: 0.25em 0; }
+.resume-rich-text strong, .resume-rich-text b { font-weight: 700; }
+.resume-rich-text em, .resume-rich-text i { font-style: italic; }
+.resume-rich-text u { text-decoration: underline; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}

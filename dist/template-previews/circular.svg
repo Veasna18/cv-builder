@@ -1,0 +1,294 @@
+<svg width="595.28" height="841.89" viewBox="0 0 595.28 841.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 0,0 L 595.28,0 C 595.28,0,595.28,0,595.28,0 L 595.28,841.89 C 595.28,841.89,595.28,841.89,595.28,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,0 C 0,0,0,0,0,0 Z" fill="#ffffff" />
+<path d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,0 C 0,0,0,0,0,0 Z" fill="#f9f5f8" />
+<path d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,50.625 C 200,50.625,200,50.625,200,50.625 L 0,50.625 C 0,50.625,0,50.625,0,50.625 L 0,0 C 0,0,0,0,0,0 Z" fill="#863977" />
+<text x="47.064208984375" y="40.1875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="15px" fill="white" font-weight="bold">Olivia&#xA0;</text>
+<text x="92.086181640625" y="40.1875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="15px" fill="white" font-weight="bold">Williams</text>
+<path d="M 0,48.625 L 200,48.625 C 200,48.625,200,48.625,200,48.625 L 200,63.625 C 200,63.625,200,63.625,200,63.625 C 140,91.625,60,91.625,0,63.625 C 0,63.625,0,63.625,0,63.625 L 0,48.625 C 0,48.625,0,48.625,0,48.625 Z" fill="#863977" />
+<text x="15" y="118.85" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">Personal&#xA0;</text>
+<text x="91.04296875" y="118.85" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">details</text>
+<path d="M 15,129.375 L 185,129.375 C 185,129.375,185,129.375,185,129.375 L 185,129.875 C 185,129.875,185,129.875,185,129.875 L 15,129.875 C 15,129.875,15,129.875,15,129.875 L 15,129.375 C 15,129.375,15,129.375,15,129.375 Z" fill="#c8c8c8" />
+<image x="15" y="139.875" width="15" height="15" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYwIiBoZWlnaHQ9Ijk2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCI+PHBhdGggZmlsbD0iIzg2Mzk3NyIgZD0iTTM2Ny42NS01MjcuNzNxLTQzLjYzLTQzLjYzLTQzLjYzLTExMi4zMXQ0My42My0xMTIuMzVxNDMuNjItNDMuNjggMTEyLjMtNDMuNjh0MTEyLjQ3IDQzLjY4cTQzLjggNDMuNjcgNDMuOCAxMTIuMzUgMCA2OC42OC00My44IDExMi4zMS00My43OSA0My42Mi0xMTIuNDcgNDMuNjJ0LTExMi4zLTQzLjYyWk0xNTQuMDItMTUwLjkxdi0xMDAuNDFxMC0zOS40OCAxOS44Ny02OC4wMiAxOS44Ny0yOC41MyA1MS40OC00My4yOSA2Ny40OC0zMC4yNCAxMjkuNy00NS4zNiA2Mi4yMS0xNS4xMiAxMjQuODctMTUuMTIgNjMuMTMgMCAxMjQuNzkgMTUuNjIgNjEuNjYgMTUuNjIgMTI4LjkgNDQuODYgMzIuNjcgMTQuNDggNTIuNjMgNDMuMDMgMTkuOTYgMjguNTYgMTkuOTYgNjguMjN2MTAwLjQ2aC02NTIuMloiLz48L3N2Zz4=" image-rendering="optimizeSpeed" />
+<text x="39" y="150" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Olivia&#xA0;</text>
+<text x="66.783203125" y="150" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Williams</text>
+<image x="15" y="164.875" width="15" height="15" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYwIiBoZWlnaHQ9Ijk2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCI+PHBhdGggZmlsbD0iIzg2Mzk3NyIgZD0iTTE0Mi4xNS0xNTQuMDJxLTI3LjYgMC00Ny44Ni0yMC4yNy0yMC4yNy0yMC4yNi0yMC4yNy00Ny44NnYtNTE1LjdxMC0yNy43IDIwLjI3LTQ4LjAzIDIwLjI2LTIwLjM0IDQ3Ljg2LTIwLjM0aDY3NS43cTI3LjcgMCA0OC4wMyAyMC4zNCAyMC4zNCAyMC4zMyAyMC4zNCA0OC4wM3Y1MTUuN3EwIDI3LjYtMjAuMzQgNDcuODYtMjAuMzMgMjAuMjctNDguMDMgMjAuMjdoLTY3NS43Wk00ODAtNDU0LjM1bDMzNy44NS0yMjN2LTYwLjVMNDgwLTUxOS44NWwtMzM3Ljg1LTIxOHY2MC41bDMzNy44NSAyMjNaIi8+PC9zdmc+" image-rendering="optimizeSpeed" />
+<text x="39" y="175" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">olivwilliams</text>
+<text x="89.0048828125" y="175" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">@</text>
+<text x="99.15625" y="175" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">example</text>
+<text x="136.9541015625" y="175" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">.</text>
+<text x="139.732421875" y="175" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">com</text>
+<image x="15" y="189.875" width="15" height="15" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYwIiBoZWlnaHQ9Ijk2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCI+PHBhdGggZmlsbD0iIzg2Mzk3NyIgZD0iTTc5NS40OC0xMTQuMDJxLTExNy40NCAwLTIzOS4wMS01Ni40OC0xMjEuNTgtNTYuNDgtMjI1LjMtMTYwLjItMTAzLjk1LTEwMy45NS0xNjAuNTUtMjI1LjY1LTU2LjYtMTIxLjY5LTU2LjYtMjM4Ljg5IDAtMjEuMzkgMTQuNjgtMzYuMTggMTQuNjctMTQuOCAzNi4wNi0xNC44aDE0MHExOC4wNyAwIDMwLjM0IDExLjU2IDEyLjI3IDExLjU1IDE2Ljk5IDMwLjM4bDI3IDEyMi4xN3EyLjQ4IDE2Ljg3LS43NCAzMC40LTMuMjIgMTMuNTQtMTMuMTMgMjIuOTdsLTEwMC45NiA5OS41N3EyNS4wNCA0Mi4wOCA1My4wOSA3OC42NSAyOC4wNCAzNi41NiA2Mi4zMiA2OS42MSAzNi4wNSAzNy4yOCA3NS4yNSA2Ny40NiAzOS4yMSAzMC4xOSA4MS44MiA1Mi43NWw5Ni4xOS05OC43MXExMS42OC0xMi42OCAyNi41OS0xNy4xNiAxNC45MS00LjQ3IDMwLjU1LTEuNTJsMTE0LjIxIDI1LjI5cTE4LjgzIDUuMTkgMzAuMzggMTkuMSAxMS41NiAxMy45MiAxMS41NiAzMi41djEzNi40NHEwIDIxLjM5LTE0LjggMzYuMDYtMTQuNzkgMTQuNjgtMzUuOTQgMTQuNjhaIi8+PC9zdmc+" image-rendering="optimizeSpeed" />
+<text x="39" y="200" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">555</text>
+<text x="55.6845703125" y="200" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">-</text>
+<text x="59.0146484375" y="200" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">1196</text>
+<image x="15" y="214.875" width="15" height="15" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYwIiBoZWlnaHQ9Ijk2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCI+PHBhdGggZmlsbD0iIzg2Mzk3NyIgZD0iTTE1NC4wMi0xMTQuMDJ2LTQ4OS4wMUw0ODAtODQ3LjY1bDMyNi4yMiAyNDQuNTR2NDg5LjA5SDU2MS40M3YtMjg3LjQxSDM5OC41N3YyODcuNDFIMTU0LjAyWiIvPjwvc3ZnPg==" image-rendering="optimizeSpeed" />
+<text x="39" y="225" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Boston</text>
+<text x="70.1328125" y="225" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">,&#xA0;</text>
+<text x="75.689453125" y="225" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Massachusetts</text>
+<text x="15" y="263.1" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">Skills</text>
+<path d="M 15,273.625 L 185,273.625 C 185,273.625,185,273.625,185,273.625 L 185,274.125 C 185,274.125,185,274.125,185,274.125 L 15,274.125 C 15,274.125,15,274.125,15,274.125 L 15,273.625 C 15,273.625,15,273.625,15,273.625 Z" fill="#c8c8c8" />
+<text x="15" y="294.25" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Google&#xA0;</text>
+<text x="50.0244140625" y="294.25" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Workspace</text>
+<circle cx="141.25" cy="290.75" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="290.75" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="290.75" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="290.75" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="290.75" r="3.75" fill="#863977"/>
+<text x="15" y="318" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Data&#xA0;</text>
+<text x="38.9013671875" y="318" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Entry</text>
+<circle cx="141.25" cy="314.5" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="314.5" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="314.5" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="314.5" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="314.5" r="3.75" fill="#863977"/>
+<text x="15" y="341.75" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Calendar&#xA0;</text>
+<text x="58.359375" y="341.75" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Management</text>
+<circle cx="141.25" cy="338.25" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="338.25" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="338.25" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="338.25" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="338.25" r="3.75" fill="#c7c4c6"/>
+<text x="15" y="365.5" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Telephone&#xA0;</text>
+<text x="65.0390625" y="365.5" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Etiquette</text>
+<circle cx="141.25" cy="362" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="362" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="362" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="362" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="362" r="3.75" fill="#863977"/>
+<text x="15" y="389.25" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Communication</text>
+<circle cx="141.25" cy="385.75" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="385.75" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="385.75" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="385.75" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="385.75" r="3.75" fill="#863977"/>
+<text x="15" y="413" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Organization&#xA0;</text>
+<text x="74.4775390625" y="413" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">and&#xA0;</text>
+<text x="93.9404296875" y="413" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">Planning</text>
+<circle cx="141.25" cy="409.5" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="409.5" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="409.5" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="409.5" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="409.5" r="3.75" fill="#c7c4c6"/>
+<text x="15" y="449.85" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">Languages</text>
+<path d="M 15,460.375 L 185,460.375 C 185,460.375,185,460.375,185,460.375 L 185,460.875 C 185,460.875,185,460.875,185,460.875 L 15,460.875 C 15,460.875,15,460.875,15,460.875 L 15,460.375 C 15,460.375,15,460.375,15,460.375 Z" fill="#c8c8c8" />
+<text x="15" y="481" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">English</text>
+<circle cx="141.25" cy="477.5" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="477.5" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="477.5" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="477.5" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="477.5" r="3.75" fill="#863977"/>
+<text x="15" y="504.75" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black">French</text>
+<circle cx="141.25" cy="501.25" r="3.75" fill="#863977"/>
+<circle cx="151.25" cy="501.25" r="3.75" fill="#863977"/>
+<circle cx="161.25" cy="501.25" r="3.75" fill="#863977"/>
+<circle cx="171.25" cy="501.25" r="3.75" fill="#863977"/>
+<circle cx="181.25" cy="501.25" r="3.75" fill="#c7c4c6"/>
+<text x="215" y="43.225" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">Summary</text>
+<path d="M 215,53.75 L 580.28,53.75 C 580.28,53.75,580.28,53.75,580.28,53.75 L 580.28,54.25 C 580.28,54.25,580.28,54.25,580.28,54.25 L 215,54.25 C 215,54.25,215,54.25,215,54.25 L 215,53.75 C 215,53.75,215,53.75,215,53.75 Z" fill="#c8c8c8" />
+<text x="215" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Dedicated&#xA0;</text>
+<text x="262.8076171875" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">and&#xA0;</text>
+<text x="282.2705078125" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">personable&#xA0;</text>
+<text x="334.53125" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">front&#xA0;</text>
+<text x="357.3193359375" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">desk&#xA0;</text>
+<text x="381.220703125" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">receptionist&#xA0;</text>
+<text x="435.13671875" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">with&#xA0;</text>
+<text x="455.6982421875" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">over&#xA0;</text>
+<text x="477.9296875" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">6&#xA0;</text>
+<text x="486.26953125" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">years&#xA0;</text>
+<text x="513.5009765625" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">of&#xA0;</text>
+<text x="524.619140625" y="74.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">experience&#xA0;</text>
+<text x="215" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">providing&#xA0;</text>
+<text x="258.359375" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">exceptional&#xA0;</text>
+<text x="311.728515625" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">customer&#xA0;</text>
+<text x="355.6298828125" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">service&#xA0;</text>
+<text x="390.0830078125" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">in&#xA0;</text>
+<text x="400.64453125" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">fast</text>
+<text x="416.7626953125" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">-</text>
+<text x="420.0927734375" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">paced&#xA0;</text>
+<text x="450.1171875" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">corporate&#xA0;</text>
+<text x="495.1416015625" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">environments</text>
+<text x="555.1708984375" y="88.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">.&#xA0;</text>
+<text x="215" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Proven&#xA0;</text>
+<text x="249.462890625" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">track&#xA0;</text>
+<text x="273.9111328125" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">record&#xA0;</text>
+<text x="305.0341796875" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">of&#xA0;</text>
+<text x="316.15234375" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">optimizing&#xA0;</text>
+<text x="363.9501953125" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">guest&#xA0;</text>
+<text x="391.19140625" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">experiences</text>
+<text x="445.1123046875" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">,&#xA0;</text>
+<text x="450.6689453125" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">streamlining&#xA0;</text>
+<text x="507.3583984375" y="101.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">administrative&#xA0;</text>
+<text x="215" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">processes</text>
+<text x="260.576171875" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">,&#xA0;</text>
+<text x="266.1328125" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">and&#xA0;</text>
+<text x="285.595703125" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">demonstrating&#xA0;</text>
+<text x="351.7431640625" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">strong&#xA0;</text>
+<text x="382.314453125" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">interpersonal&#xA0;</text>
+<text x="442.9052734375" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">skills</text>
+<text x="464.5703125" y="115.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">.&#xA0;</text>
+<text x="215" y="152.475" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">Employment</text>
+<path d="M 215,163 L 580.28,163 C 580.28,163,580.28,163,580.28,163 L 580.28,163.5 C 580.28,163.5,580.28,163.5,580.28,163.5 L 215,163.5 C 215,163.5,215,163.5,215,163.5 L 215,163 C 215,163,215,163,215,163 Z" fill="#c8c8c8" />
+<text x="215" y="183.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Front&#xA0;</text>
+<text x="243.3251953125" y="183.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Desk&#xA0;</text>
+<text x="270.009765625" y="183.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Receptionist</text>
+<text x="526.90109375" y="183.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">2020&#xA0;</text>
+<text x="551.9255078125" y="183.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">-&#xA0;</text>
+<text x="558.03390625" y="183.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">2024</text>
+<text x="215" y="197.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Grand&#xA0;</text>
+<text x="245.5712890625" y="197.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Horizon&#xA0;</text>
+<text x="282.8076171875" y="197.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Hotels</text>
+<text x="311.15234375" y="197.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">,&#xA0;</text>
+<text x="316.708984375" y="197.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Springfield</text>
+<text x="363.9599609375" y="197.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">,&#xA0;</text>
+<text x="369.5166015625" y="197.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">MA</text>
+<text x="235" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Demonstrated&#xA0;</text>
+<text x="300.5859375" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">exceptional&#xA0;</text>
+<text x="353.955078125" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">conflict&#xA0;</text>
+<text x="387.8564453125" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">resolution&#xA0;</text>
+<text x="433.994140625" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">skills&#xA0;</text>
+<text x="458.4375" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">by&#xA0;</text>
+<text x="471.77734375" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">successfully&#xA0;</text>
+<text x="528.4619140625" y="211.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">resolving&#xA0;</text>
+<circle cx="225" cy="208.125" r="2" fill="#000000"/>
+<text x="235" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">90%&#xA0;</text>
+<text x="257.79296875" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">of&#xA0;</text>
+<text x="268.9111328125" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">customer&#xA0;</text>
+<text x="312.8125" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">issues&#xA0;</text>
+<text x="343.935546875" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">at&#xA0;</text>
+<text x="355.0537109375" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">the&#xA0;</text>
+<text x="371.7333984375" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">front&#xA0;</text>
+<text x="394.521484375" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">desk</text>
+<text x="415.64453125" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">,&#xA0;</text>
+<text x="421.201171875" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">leading&#xA0;</text>
+<text x="456.23046875" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">to&#xA0;</text>
+<text x="467.3486328125" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">a&#xA0;</text>
+<text x="475.6884765625" y="224.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">significant&#xA0;</text>
+<text x="235" y="238.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">improvement&#xA0;</text>
+<text x="295.576171875" y="238.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">in&#xA0;</text>
+<text x="306.1376953125" y="238.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">satisfaction&#xA0;</text>
+<text x="358.9404296875" y="238.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">scores</text>
+<text x="235" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Enhanced&#xA0;</text>
+<text x="282.8173828125" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">overall&#xA0;</text>
+<text x="315.0537109375" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">guest&#xA0;</text>
+<text x="342.294921875" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">satisfaction</text>
+<text x="392.3193359375" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">,&#xA0;</text>
+<text x="397.8759765625" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">contributing&#xA0;</text>
+<text x="452.353515625" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">to&#xA0;</text>
+<text x="463.4716796875" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">a&#xA0;</text>
+<text x="471.8115234375" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">25%&#xA0;</text>
+<text x="494.6044921875" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">improvement&#xA0;</text>
+<text x="555.1806640625" y="252.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">in&#xA0;</text>
+<circle cx="225" cy="249.375" r="2" fill="#000000"/>
+<text x="235" y="266.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">customer&#xA0;</text>
+<text x="278.9013671875" y="266.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">feedback&#xA0;</text>
+<text x="322.265625" y="266.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">scores</text>
+<text x="351.71875" y="266.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">.</text>
+<text x="235" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Successfully&#xA0;</text>
+<text x="293.3544921875" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">managed&#xA0;</text>
+<text x="337.83203125" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">and&#xA0;</text>
+<text x="357.294921875" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">prioritized&#xA0;</text>
+<text x="403.4228515625" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">incoming&#xA0;</text>
+<text x="446.220703125" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">calls</text>
+<text x="466.2255859375" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">,&#xA0;</text>
+<text x="471.7822265625" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">achieving&#xA0;</text>
+<text x="516.8115234375" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">a&#xA0;</text>
+<text x="525.1513671875" y="279.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">15%&#xA0;</text>
+<circle cx="225" cy="276.875" r="2" fill="#000000"/>
+<text x="235" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">decrease&#xA0;</text>
+<text x="278.916015625" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">in&#xA0;</text>
+<text x="289.4775390625" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">hold&#xA0;</text>
+<text x="311.162109375" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">times&#xA0;</text>
+<text x="337.83203125" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">and&#xA0;</text>
+<text x="357.294921875" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">ensuring&#xA0;</text>
+<text x="398.4326171875" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">timely&#xA0;</text>
+<text x="427.32421875" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">assistance&#xA0;</text>
+<text x="477.3486328125" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">for&#xA0;</text>
+<text x="491.796875" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">callers</text>
+<text x="520.693359375" y="293.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">.</text>
+<text x="215" y="317.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Front&#xA0;</text>
+<text x="243.3251953125" y="317.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Desk&#xA0;</text>
+<text x="270.009765625" y="317.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Receptionist</text>
+<text x="526.90109375" y="317.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">2017&#xA0;</text>
+<text x="551.9255078125" y="317.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">-&#xA0;</text>
+<text x="558.03390625" y="317.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">2020</text>
+<text x="215" y="331.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Nexus&#xA0;</text>
+<text x="246.123046875" y="331.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Global&#xA0;</text>
+<text x="277.8076171875" y="331.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Solutions</text>
+<text x="318.9453125" y="331.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">,&#xA0;</text>
+<text x="324.501953125" y="331.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Boston</text>
+<text x="355.634765625" y="331.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">,&#xA0;</text>
+<text x="361.19140625" y="331.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">MA</text>
+<text x="235" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Handled&#xA0;</text>
+<text x="275.029296875" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">100</text>
+<text x="291.7138671875" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">+&#xA0;</text>
+<text x="300.33203125" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">inbound&#xA0;</text>
+<text x="338.701171875" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">and&#xA0;</text>
+<text x="358.1640625" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">outbound&#xA0;</text>
+<text x="402.6513671875" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">calls&#xA0;</text>
+<text x="425.4345703125" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">daily</text>
+<text x="446.0009765625" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">,&#xA0;</text>
+<text x="451.5576171875" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">providing&#xA0;</text>
+<text x="494.9169921875" y="344.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">valuable&#xA0;</text>
+<circle cx="225" cy="341.875" r="2" fill="#000000"/>
+<text x="235" y="358.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">information&#xA0;</text>
+<text x="287.24609375" y="358.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">to&#xA0;</text>
+<text x="298.3642578125" y="358.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">clients&#xA0;</text>
+<text x="329.4873046875" y="358.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">and&#xA0;</text>
+<text x="348.9501953125" y="358.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">maintaining&#xA0;</text>
+<text x="402.87109375" y="358.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">organizational&#xA0;</text>
+<text x="467.9150390625" y="358.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">efficiency</text>
+<text x="235" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Achieved&#xA0;</text>
+<text x="278.916015625" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">a&#xA0;</text>
+<text x="287.255859375" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">98%&#xA0;</text>
+<text x="310.048828125" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">customer&#xA0;</text>
+<text x="353.9501953125" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">satisfaction&#xA0;</text>
+<text x="406.7529296875" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">rate&#xA0;</text>
+<text x="426.7626953125" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">according&#xA0;</text>
+<text x="472.900390625" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">to&#xA0;</text>
+<text x="484.0185546875" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">feedback&#xA0;</text>
+<text x="527.3828125" y="372.375" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">surveys</text>
+<circle cx="225" cy="369.375" r="2" fill="#000000"/>
+<text x="235" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">Implemented&#xA0;</text>
+<text x="295.5859375" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">a&#xA0;</text>
+<text x="303.92578125" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">new&#xA0;</text>
+<text x="325.048828125" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">CRM&#xA0;</text>
+<text x="350.6005859375" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">system</text>
+<text x="382.2705078125" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">,&#xA0;</text>
+<text x="387.8271484375" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">reducing&#xA0;</text>
+<text x="428.96484375" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">costs&#xA0;</text>
+<text x="455.0830078125" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">by&#xA0;</text>
+<text x="468.4228515625" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">25%&#xA0;</text>
+<text x="491.2158203125" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">and&#xA0;</text>
+<text x="510.6787109375" y="386.125" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">increasing&#xA0;</text>
+<circle cx="225" cy="383.125" r="2" fill="#000000"/>
+<text x="235" y="399.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#000000">productivity</text>
+<text x="215" y="436.725" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">Education</text>
+<path d="M 215,447.25 L 580.28,447.25 C 580.28,447.25,580.28,447.25,580.28,447.25 L 580.28,447.75 C 580.28,447.75,580.28,447.75,580.28,447.75 L 215,447.75 C 215,447.75,215,447.75,215,447.75 L 215,447.25 C 215,447.25,215,447.25,215,447.25 Z" fill="#c8c8c8" />
+<text x="215" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Associate&#xA0;</text>
+<text x="265.0244140625" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">of&#xA0;</text>
+<text x="277.2412109375" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Arts</text>
+<text x="297.24609375" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">,&#xA0;</text>
+<text x="302.802734375" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Business</text>
+<text x="526.90109375" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">2016&#xA0;</text>
+<text x="551.9255078125" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">-&#xA0;</text>
+<text x="558.03390625" y="467.875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">2018</text>
+<text x="215" y="481.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Franklin&#xA0;</text>
+<text x="253.3447265625" y="481.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">University</text>
+<text x="297.2412109375" y="481.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">,&#xA0;</text>
+<text x="302.7978515625" y="481.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">Boston</text>
+<text x="333.9306640625" y="481.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">,&#xA0;</text>
+<text x="339.4873046875" y="481.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#863977">MA</text>
+<text x="215" y="518.475" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" fill="#863977">Certificates</text>
+<path d="M 215,529 L 580.28,529 C 580.28,529,580.28,529,580.28,529 L 580.28,529.5 C 580.28,529.5,580.28,529.5,580.28,529.5 L 215,529.5 C 215,529.5,215,529.5,215,529.5 L 215,529 C 215,529,215,529,215,529 Z" fill="#c8c8c8" />
+<text x="215" y="549.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Certified&#xA0;</text>
+<text x="258.33984375" y="549.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Administrative&#xA0;</text>
+<text x="330.5810546875" y="549.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">Professional&#xA0;</text>
+<text x="393.37890625" y="549.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">(</text>
+<text x="396.708984375" y="549.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">CAP</text>
+<text x="417.822265625" y="549.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">)</text>
+<text x="558.03390625" y="549.625" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="#333333" font-weight="bold">2021</text>
+<path d="M 0,801.89 C 60,829.89,140,829.89,200,801.89 C 200,801.89,200,801.89,200,801.89 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,801.89 C 0,801.89,0,801.89,0,801.89 Z" fill="#863977" />
+<text x="271.17271484375" y="829.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black" fill-opacity="0.25">©</text>
+<a href="https://www.cvwizard.com" target="_blank"><text x="281.31919921875" y="829.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black" fill-opacity="0.25">CVwizard</text></a>
+</svg>
