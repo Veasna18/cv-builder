@@ -127,7 +127,6 @@ export default function EditorPage() {
   };
 
   const exportJson = () => {
-    if (!user) { localStorage.setItem('cvb_guest_draft', JSON.stringify(resume)); navigate('/login', { state: { from: '/editor' } }); return; }
     const blob = new Blob([JSON.stringify(resume, null, 2)], { type: 'application/json' });
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
@@ -141,7 +140,6 @@ export default function EditorPage() {
   };
 
   const onDownload = async () => {
-    if (!user) { localStorage.setItem('cvb_guest_draft', JSON.stringify(resume)); navigate('/login', { state: { from: '/editor' } }); return; }
     if (!idRef.current && !(await save(resume))) return;
     setExporting(true);
     try { await showPreviewForExport(); await downloadPdf(resume.title); }
@@ -150,7 +148,6 @@ export default function EditorPage() {
   };
 
   const onPrint = async () => {
-    if (!user) { localStorage.setItem('cvb_guest_draft', JSON.stringify(resume)); navigate('/login', { state: { from: '/editor' } }); return; }
     if (!idRef.current && !(await save(resume))) return;
     await showPreviewForExport(); printResume();
   };
